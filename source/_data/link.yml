@@ -18,9 +18,9 @@
   link_list:
     - name: L-Pig
       link: https://blog.coder-xiaozhu.com/
-      avatar: img/hero.png
+      avatar: /img/hero.png
       descr: 生活明朗，万物可爱
-      siteshot: img/hero.png
+      siteshot: /img/hero.png
       color: vip
       tag: 技术
 

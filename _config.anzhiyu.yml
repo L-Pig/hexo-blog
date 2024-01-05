@@ -30,7 +30,7 @@ nav:
       item:
         - name: 博客
           link: https://blog.coder-xiaozhu.com/
-          icon: img/hero.png
+          icon: /img/hero.png
 
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
@@ -132,7 +132,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: img/hero.png
+favicon: /img/hero.png
 
 # Avatar (头像)
 avatar:
@@ -162,8 +162,8 @@ cover:
 
 # Replace Broken Images (替换无法显示的图片)
 error_img:
-  flink: img/friend_404.gif
-  post_page: img/404.jpg
+  flink: /img/friend_404.gif
+  post_page: /img/404.jpg
 
 # A simple 404 page
 error_404:
@@ -772,7 +772,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar:  img/hero.png #https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
+  avatar:  /img/hero.png #https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
